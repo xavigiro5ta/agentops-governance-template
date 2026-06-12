@@ -8,6 +8,8 @@
 [![Licencia](https://img.shields.io/badge/licencia-MIT-lightgrey)](./LICENSE)
 [![Estado](https://img.shields.io/badge/estado-LAB--ONLY%20·%20NOT__CANON-orange)](#principios)
 
+**🌐 Idioma:** Español · [English](./README.en.md)
+
 ---
 
 ## El problema
@@ -59,6 +61,8 @@ Comprueba, sobre todos los documentos controlados:
 - **Secretos** — sin tokens ni credenciales filtradas.
 
 Salida esperada: `RESULTADO GLOBAL: PASS`.
+
+![Salida de los validadores — 5/5 PASS](./assets/validators-pass.png)
 
 ## Principios
 
